@@ -1,0 +1,9 @@
+---
+galaxy_info:
+  author: Marcio Ribeiro
+  description: Just says Hello
+  company: Loggi
+  license: BSD
+  min_ansible_version: 1.2
+dependencies: []
+  
